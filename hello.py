@@ -1,2 +1,0 @@
-# SnakesAndladder
-print(hello world)
